@@ -18,7 +18,7 @@ Put quite simple tasks can be broke down into the following parts
 ​
 ---
 ​
-1. # Projects
+## Projects
 ​
 Create the projects you have and you can then add tasks to them. Projects are very unique in Tasks as each proejct can have a completely custom setup. A standard project can have a simple workflow where tasks move from `Todo → Done`. Other projects can't be a more complex workflow like a `Home Renovation` project where the workflow could be as follows `Plan → Finalise → Buy → Setup → Inspect → Completed` .
 ​
@@ -73,7 +73,7 @@ Note: Once you create a field,  it is reflected for all tasks in **that** projec
 ​
 ---
 ​
-2. # Tasks
+# Tasks
 ​
 We've tried our best to make this part as intuitive so there isn't much to say, but let us share a few tips and tricks.
 ​
@@ -85,7 +85,7 @@ You can always long press or right click a task and perform quick actions as sho
 ​
 ---
 ​
-3. # Filters
+## Filters
 ​
 These are simple predefined filters that filter all the tasks in the app. You can tap on the `+` icon on the Home Screen and select the ones you want to see. By default you'll see a few filters to help you get started. You can hide them entirely as per your convenience.
 ​
@@ -93,7 +93,7 @@ These are simple predefined filters that filter all the tasks in the app. You ca
 ​
 ---
 ​
-4. # Smart Lists
+## Smart Lists
 ​
 I'll be honest with you, this is my favorite feature. I started developing Tasks because I needed something this. Smart Lists works as a dynamic filter that you define. Let me expand on that with an example. Say you want all high priority tasks across all your projects. It is so inconvenient to go into each project and find them and complete them, right? Smart Lists solves that and more.
 ​
@@ -105,7 +105,7 @@ Find me all tasks, across all projects where the tasks `contains` priority `High
 ​
 ---
 ​
-5. # Folders
+## Folders
 ​
 Folders are just ways to organise your projects to make your Home Screen less cluttered. You can nest folders within folders, place Projects and Smart Lists within them.
 ​
