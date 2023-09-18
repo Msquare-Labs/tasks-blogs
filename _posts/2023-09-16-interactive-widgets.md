@@ -1,8 +1,8 @@
 ---
-title: Tasks Introduction
+title: Getting Started with Tasks
 date: 2023-09-16 00:00:00 +0000
 layout: post
-categories: [top]
+categories: [intro]
 tags: [intro]     # TAG names should always be lowercase
 ---
 
