@@ -47,7 +47,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/mufasayc
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google-site-verification=pxPxgN_MAbkYOkgaqzej45MiZDHfLY0o_EvDIjO4i6o
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -110,7 +110,7 @@ assets:
     env: # [development|production]
 
 pwa:
-  enabled: true # the option for PWA feature
+  enabled: false # the option for PWA feature
 
 paginate: 10
 
