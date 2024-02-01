@@ -5,7 +5,7 @@ layout: post
 categories: [tasks]
 tags: [apple, guide]     # TAG names should always be lowercase
 image:
-  path: https://secure-res.craft.do/v2/FbCCXXUPk8R1PUWw89SW7FjBa9Q92we7mFw4BAZttDzDhsE6MSDHc6wAHFR7xfWfh5AgkpJJy1NQdK1L9MPS2sNpPhLQZuqhNTRNCqFQ1A8ro1cJkRyVuLhSrfVEfXw9vFi4ACXZKxR5zajsKNYPAq3nxUEZUU7V46J8phuczq1zWJf4ahkx6GTV5CF4s8bAAN9L64JSVsWH4RgWTgqygWkR1T58sFrdtx11J3HyyBgvse6y
+  path: https://tasks-blogs.s3.amazonaws.com/tasks-getting-started-banner.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Tasks App Feature Image
 ---
@@ -37,7 +37,7 @@ Let us expand on them.
 ​
 These are nothing but the columns you see and how your tasks flow. Let us take a very basic example such as `Todo → Doing → Done` . You can edit these statuses as you like, from their color to their icon. Here is how you would do that in the app - find the project in the Home Screen of the app, long press or right click on it and select the option that reads `Modify Task Statuses`. On selecting that you'd be presented by a similar screen where you can modify them.
 ​
-![Mask group.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/7C99235B-F1BC-4A27-BEA3-C2414AC69F26_2/Jj5FIbrEFn6WTmBis9ryc1v9PVwmrZuEdVinyvQDMtgz/Mask%20group.png)
+![tasks status.webp](https://tasks-blogs.s3.amazonaws.com/editing-status.webp)
 ​
 The green checkmark icon denotes the column which holds completed tasks. These tasks do not appear in the count of pending tasks of that project.
 ​
@@ -45,13 +45,13 @@ The green checkmark icon denotes the column which holds completed tasks. These t
 ​
 There are many places to create them as you'll see when exploring the app. One of the ways is to tap on `+ Add Tags`. You can long press on the `Tags` header as you see in the screenshot below to reorganise them in an order you prefer. You can always edit or delete them by long pressing or right clicking on the tags as well.
 ​
-![Tags.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/A6F409A9-9C40-4337-B7B4-037879E2C328_2/HDYkXWCoppgQ7Fh6TMxK1nmUxk7mGlTVVKsVzMyLaygz/Tags.png)
+![tasks-priotity-task-type.webp](https://tasks-blogs.s3.amazonaws.com/Tags+from+Tasks.webp)
 ​
 ### What is the difference between tags, priorities and task types?
 ​
 Priorities are self explanatory. A task can have multiple tags, but only **one** task type. I use them personally to describe what does the task denote, e.g, it's a bug or feature. This is how they look on tasks.
 ​
-![Group 9.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/D8A078D3-BB15-43FF-ACD9-0EA1B537761E_2/apeAcf45GtX7lHoUi5RDWgue4IPYEyYGoazsYEd8hbEz/Group%209.png)
+![priority.webp](https://tasks-blogs.s3.amazonaws.com/priority.webp)
 ​
 ### Fields
 ​
@@ -74,7 +74,7 @@ You can go into the task, tap on the `···` icon on the top right, and tap on 
 ​
 Note: Once you create a field, it is reflected for all tasks in **that** project. Fields are configured per project so they don't disturn your other projects with adding unneccesary fields.
 ​
-![Group 14.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/79D9DCDB-48A2-41FD-BB8A-68CBDA1385B7_2/YD0NSm2PM7XQY9EDLrxknrL2AbVFE4Dxm9KOZwoP6oMz/Group%2014.png)
+![multiple field.webp](https://tasks-blogs.s3.amazonaws.com/multiple-fields.webp)
 
 ## Tasks
 ​
@@ -84,13 +84,13 @@ When creating a task, you can naturally type in the date and we pick it up and a
 ​
 You can always long press or right click a task and perform quick actions as shown in the images below!
 ​
-![Group 17.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/C1FEC189-8693-442D-AF67-850AF4DA064C_2/BYTbaRGh1ZfRYWppj5XidYOirxq1mRbXCXiH7dLCIdYz/Group%2017.png)
+![tasks details.webp](https://tasks-blogs.s3.amazonaws.com/tasks-detail-hold.webp)
 ​
 ## Filters
 ​
 These are simple predefined filters that filter all the tasks in the app. You can tap on the `+` icon on the Home Screen and select the ones you want to see. By default you'll see a few filters to help you get started. You can hide them entirely as per your convenience.
 ​
-![Group 21.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/12F20E77-70C6-48A9-90CE-66C62732CEA9_2/FaQ7pkzCOUSzm61eZDq4iyIryUvmKOtyBXHPJrfB5o4z/Group%2021.png)
+![filter.webp](https://tasks-blogs.s3.amazonaws.com/filter.webp)
 ​
 ## Smart Lists
 ​
@@ -102,7 +102,7 @@ Here is a Smart List I will create which reads as the following:
 ​
 Find me all tasks, across all projects where the tasks `contains` priority `High` and the tasks that are assigned to me! How simple and clean right? We are working on improving this a lot more to make it even more effortless and can't wait to share that with you soon!
 ​
-![Group 25.png](https://res.craft.do/user/full/3094d487-bbd8-b8bc-6341-a0c5cce86840/doc/0638CDEB-3635-4BC8-8F95-3AF0538AB498/D07B9F52-44BC-406A-8012-9DA361D50E4A_2/GpqGLJZE08KCeF4VLUxIAKVY3GzGi6eE5UDwn4OsL9Iz/Group%2025.png)
+![smart-list.webp](https://tasks-blogs.s3.amazonaws.com/smart-list.webp)
 ​
 ## Folders
 ​
